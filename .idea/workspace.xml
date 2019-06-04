@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fd5bc7b-6a40-41e7-9bf5-624801ae165f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/notebooks/Pipeline1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Pipeline1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Wine.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Wine.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="260" />
     <option name="y" value="25" />
     <option name="width" value="1400" />
@@ -104,7 +104,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -181,11 +181,12 @@
       <updated>1559584136082</updated>
       <workItem from="1559584137348" duration="4994000" />
       <workItem from="1559669274520" duration="9011000" />
+      <workItem from="1559681182534" duration="40000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14005000" />
+    <option name="totallyTimeSpent" value="14045000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -197,10 +198,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17643923" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17927383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -217,6 +217,8 @@
       <window_info anchor="bottom" id="Jupyter" order="11" weight="0.3290461" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.3290461" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.3290461" />
+      <window_info anchor="right" id="R Graphics" />
+      <window_info anchor="right" id="R Packages" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -268,9 +270,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/notebooks/Pipeline2.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -281,10 +280,13 @@
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/notebooks/Análise de Vinhos Vermelho.ipynb">
+    <entry file="file://$PROJECT_DIR$/notebooks/Pipeline1.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/notebooks/Pipeline1.ipynb">
+    <entry file="file://$PROJECT_DIR$/notebooks/Pipeline2.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/Análise de Vinhos Vermelho.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>
