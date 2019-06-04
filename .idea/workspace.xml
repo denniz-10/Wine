@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fd5bc7b-6a40-41e7-9bf5-624801ae165f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/notebooks/qualidade-vinhos-vermelho.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Wine.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Wine.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +32,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/notebooks/Pipeline1.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
@@ -39,7 +42,7 @@
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/notebooks/Análise de Vinhos Vermelho.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
@@ -70,7 +73,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
     <option name="y" value="25" />
     <option name="width" value="1400" />
@@ -89,6 +92,11 @@
             <path>
               <item name="Wine" type="b2602c69:ProjectViewProjectNode" />
               <item name="Wine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Wine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wine" type="462c0819:PsiDirectoryNode" />
+              <item name="notebooks" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -181,12 +189,12 @@
       <updated>1559584136082</updated>
       <workItem from="1559584137348" duration="4994000" />
       <workItem from="1559669274520" duration="9011000" />
-      <workItem from="1559681182534" duration="40000" />
+      <workItem from="1559681182534" duration="427000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14045000" />
+    <option name="totallyTimeSpent" value="14432000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -200,7 +208,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17927383" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2193646" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -215,7 +223,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3290461" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Jupyter" order="11" weight="0.3290461" />
-      <window_info anchor="bottom" id="Terminal" order="12" weight="0.3290461" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.32850242" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.3290461" />
       <window_info anchor="right" id="R Graphics" />
       <window_info anchor="right" id="R Packages" />
